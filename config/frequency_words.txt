@@ -3,6 +3,7 @@ GIS
 
 母婴
 育儿
+升学
 教育规划
 教育部
 
@@ -10,14 +11,6 @@ GIS
 
 DeepSeek
 梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-大疆
-DJI
 
 谷歌
 google
@@ -30,11 +23,6 @@ sora
 
 claude
 Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
